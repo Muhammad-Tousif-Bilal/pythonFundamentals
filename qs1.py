@@ -6,3 +6,5 @@ else:
     print(num, "is an odd number.")    
 
 print("Program ended.")
+
+print("New Program")
