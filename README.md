@@ -3,7 +3,7 @@
 # Practice Questions
 
 Goal: 50+ Questions  
-Completed: 05
+Completed: 06
 
 Topics Covered:
 
