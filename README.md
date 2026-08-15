@@ -3,11 +3,12 @@
 # Practice Questions
 
 Goal: 50+ Questions  
-Completed: 09
+Completed: 10
 
 Topics Covered:
 
-- Conditionals (in progress)
+- Conditionals
+- Loops (in progress)
 
 ## Projects
 
