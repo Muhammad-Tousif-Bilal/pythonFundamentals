@@ -9,7 +9,7 @@ Topics Covered:
 
 - Conditionals
 - Loops 
-- Arrays
+- Arrays (in progress)
 
 ## Projects
 
