@@ -8,7 +8,8 @@ Completed: 19
 Topics Covered:
 
 - Conditionals
-- Loops (in progress)
+- Loops 
+- Arrays
 
 ## Projects
 
