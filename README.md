@@ -10,6 +10,7 @@ Topics Covered:
 - Conditionals
 - Loops 
 - Arrays (in progress)
+- Star & Pattern Problems  (in progress)
 
 ## Projects
 
