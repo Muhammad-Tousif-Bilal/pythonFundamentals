@@ -4,8 +4,11 @@ ls2 = [1, 3, 5, 7]
 
 add = []
 
-for i in ls1:
-    sum = 0
+for i in range(len(ls1)):
+    sum = ls1[i] + ls2[i]
+    add.append(sum)
+print(f"Sum is {add}")
+    
     
 
 
