@@ -1,5 +1,5 @@
 # Check whether a number is prime or not.
-n = 5
+n = 13
 
 if n > 1:
 
