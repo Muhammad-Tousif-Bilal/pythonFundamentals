@@ -11,6 +11,7 @@ Topics Covered:
 - Loops 
 - Arrays (in progress)
 - Star & Pattern Problems  (in progress)
+- Functions  (in progress)
 
 ## Projects
 
