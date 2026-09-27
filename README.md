@@ -3,15 +3,15 @@
 # Practice Questions
 
 Goal: 50+ Questions  
-Completed: 29
+Completed: 43
 
 Topics Covered:
 
 - Conditionals
-- Loops 
+- Loops
 - Arrays (in progress)
-- Star & Pattern Problems  (in progress)
-- Functionsa  (in progress)
+- Star & Pattern Problems (I skip the last 5 Qs)
+- Functions
 
 ## Projects
 
