@@ -4,11 +4,15 @@ matrix = [
     [4, 5, 6]
 ] 
  
-tanspose = [[], []]
-i = 0
-while i < 2:
-    tanspose[i][i] = matrix[i][i]
-    i += 1
+tanspose = [[], [], []]
+for i in matrix:
+    j = 0
+    k = 0
+    while j < 2:
+        tanspose[k][j] = matrix[i][j]
+        j += 1
+        k += 1
+        
 
 print(matrix)
 print(tanspose)
