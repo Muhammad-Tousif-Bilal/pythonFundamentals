@@ -4,15 +4,12 @@ matrix = [
     [4, 5, 6]
 ] 
  
-tanspose = [[], [], []]
-for i in matrix:
-    j = 0
-    k = 0
-    while j < 2:
-        tanspose[k][j] = matrix[i][j]
-        j += 1
-        k += 1
+tanspose = [[0,0], [0,0], [0,0]] # set the initial vale to 0
+for i in range(len(matrix)):
+    for j in range(len(matrix[0])):
+        tanspose[j][i] = matrix[i][j]
+        
         
 
-print(matrix)
-print(tanspose)
+print("Origninal", matrix)
+print("Transpose", tanspose)
